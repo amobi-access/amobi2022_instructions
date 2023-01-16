@@ -9,7 +9,8 @@
 
 2. スクリプトの修正
 
-   以下のように`vel_observe.py` / `observe_velocity.py` を修正．  
+   以下のように`vel_observe.py` / `observe_velocity.py` を修正．
+
    ![alt text][fig1]  
    ![alt text][fig2]  
     ```python
